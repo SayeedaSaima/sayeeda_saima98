@@ -1,4 +1,4 @@
-<img alt="coding" width="1000" src="https://cdni.iconscout.com/illustration/premium/thumb/coding-project-1884980-1597918.png">
+<img align="center" alt="coding" width="1000" src="https://cdn-images-1.medium.com/max/800/1*A4AZXGxmMSPgmoMzdmh98A.gif">
 <h1 align="center">Hi 👋, I'm Sayeeda Saima</h1>
 <h3 align="center">A passionate Web developer & designer from Bangladesh</h3>
 
